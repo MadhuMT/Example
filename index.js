@@ -4,3 +4,5 @@ if(index==0){
 else{
   console.log("git bash")
 }
+else{
+  console.log("Hi")
